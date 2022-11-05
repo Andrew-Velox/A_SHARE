@@ -26,7 +26,7 @@ pip install requests
 pip install mechanize
 pip install bs4
 pkg install git
-git clone https://github.com/andrew-velox/A_SHARE
+git clone https://github.com/Andrew-Velox/A_SHARE
 
 
 ```
@@ -36,7 +36,7 @@ git clone https://github.com/andrew-velox/A_SHARE
 ls
 cd A_SHARE
 ls
-python A_Share.py
+python A_SHARE.py
 
 
 ```
@@ -44,7 +44,7 @@ python A_Share.py
 ## <b>Single Command </b>
 ```
 
-pkg update ; pkg upgrade ; pkg install python ; pkg install python2 ; pip install requests ; pip install mechanize ;pip install bs4; pkg install git ; git clone https://github.com/andrew-velox/A_SHARE ; cd A_SHARE; python A_Share.py
+pkg update ; pkg upgrade ; pkg install python ; pkg install python2 ; pip install requests ; pip install mechanize ;pip install bs4; pkg install git ; git clone https://github.com/Andrew-Velox/A_SHARE ; cd A_SHARE; python A_SHARE.py
 ```
 
  Note: This Tool Is Free So You Don't Need Any Permission To Use VELOX's Wordlist Tool..Enjoy)<b></b></br>
